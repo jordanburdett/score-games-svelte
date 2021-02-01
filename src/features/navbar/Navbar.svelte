@@ -1,8 +1,8 @@
-<script>
-
+<script lang="ts">
+    
 </script>
 
-<p>Hello From the navbar!</p>
+<p>Hello from the future navbar</p>
 
 <style>
 
